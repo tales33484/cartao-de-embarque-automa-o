@@ -109,7 +109,7 @@ LibreOffice instalado
 ImageMagick instalado e configurado no PATH do sistema
 
 
-Observações
+## Observações
 
 Sistema desenvolvido para Windows, mas adaptável para Linux/Mac ajustando caminhos e drivers.
 
@@ -117,7 +117,7 @@ Ideal para voos com pequenos lotes de passageiros e impressão em máquinas de r
 
 Scripts separados por passageiro (paxXX.py) permitem processamento individualizado.
 
-Autor
+## Autor
 
 Tales Oliveira
 📧 tales.33484@gmail.com

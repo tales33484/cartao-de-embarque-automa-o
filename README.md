@@ -52,20 +52,22 @@ Este sistema automatiza a criação de cartões de embarque a partir de informa�
 
 ## Estrutura de Arquivos
 
+```text
 /cartao-embarque-automation
 │
-├── main.py                 # Interface principal Tkinter
-├── script01.py             # Coleta inicial de dados
-├── script02.py             # Processamento e salvamento offline
+├── main.py # Interface principal Tkinter
+├── script01.py # Coleta inicial de dados
+├── script02.py # Processamento e salvamento offline
 ├── scanearvooparasalvar.py # Captura e salva QR code
-├── botoesparasalvar.py     # Interface para salvar PDFs
-├── modelo.docx             # Modelo do cartão de embarque
-├── index.html              # Página local para geração de QR code
-├── firefox.exe             # Firefox Portable
-├── geckodriver.exe         # Driver do Selenium
-├── conteudo_relatorio.txt  # Dados extraídos do sistema online
-└── paxXX.py                # Scripts individuais para cada passageiro
-
+├── botoesparasalvar.py # Interface para salvar PDFs
+├── modelo.docx # Modelo do cartão de embarque
+├── index.html # Página local para geração de QR code
+├── firefox.exe # Firefox Portable
+├── geckodriver.exe # Driver do Selenium
+├── conteudo_relatorio.txt # Dados extraídos do sistema online
+└──
+```
+---
 
 ## Fluxo de Funcionamento
 
